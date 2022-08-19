@@ -1,4 +1,4 @@
-package datastructures.twopointers;
+package main.datastructures.twopointers;
 
 import java.util.HashMap;
 
